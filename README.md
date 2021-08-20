@@ -1,0 +1,1 @@
+![Vista previa de la app](./preview.jpg)
